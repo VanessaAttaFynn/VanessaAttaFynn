@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github.com/VanessaAttaFynn/VanessaAttaFynn/blob/main/images/wall-e_1_800x400.png" alt="vanessaattafynn" /></p>
+<p align="center"><img align="center" src="https://github.com/VanessaAttaFynn/VanessaAttaFynn/blob/main/images/profile.png" alt="vanessaattafynn" /></p>
 <h1 align="center">Hey there👋, I'm Vanessa! Welcome to my page 😃</h1>
 <h3 align="center">I'm a Data Anaylst and Machine Learning Engineer from Accra, Ghana.</h3>
 
