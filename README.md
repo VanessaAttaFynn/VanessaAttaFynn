@@ -1,3 +1,5 @@
+<p><img align="left" src="https://github.com/VanessaAttaFynn/VanessaAttaFynn/blob/main/images/https://github.com/VanessaAttaFynn/VanessaAttaFynn/blob/main/images/wall-e.png" alt="vanessaattafynn" /></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Hey there👋, I'm Vanessa! Welcome to my page 😃</h1>
 <h3 align="center">I'm a Data Anaylst and Machine Learning Engineer from Accra, Ghana.</h3>
 
@@ -27,9 +29,9 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessaattafynn&show_icons=true&locale=en&layout=compact" alt="vanessaattafynn" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessaattafynn&show_icons=true&locale=en&layout=compact&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessaattafynn&show_icons=true&locale=en" alt="vanessaattafynn" /></p><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessaattafynn&show_icons=true&locale=en&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br><br><br>
 
 <h3 align="left">Support:</h3>
 
