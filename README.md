@@ -15,7 +15,7 @@
 
 - 🐱‍👤 I enjoy watching anime, reading manga and light novels and watching space documentaries.
 
-- ☄ I love to imagine myself as **an astronaut drifting in space, through an ocean of stars✨** Just imagining the feeling over weightlessness and the starnge possibilties that may exist in the universe.
+- ☄ I love to imagine myself as **an astronaut drifting in space, through an ocean of stars✨. Just imagining the feeling of weightlessness and the strange possibilties that may exist somewhere in the universe🎈.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
