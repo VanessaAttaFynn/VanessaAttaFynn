@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessaattafynn&show_icons=true&locale=en&layout=compact&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessaattafynn&show_icons=true&locale=en&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessaattafynn&show_icons=true&locale=en&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br>
 
 <h3 align="left">Support:</h3>
 
