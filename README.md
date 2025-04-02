@@ -11,9 +11,9 @@
 
 - 📚 All of my projects are available at [github.com/VanessaAttaFynn](github.com/VanessaAttaFynn)
 
-- 📨 How to reach me **vattafynn2020@gmail.com**
+- 📨 How to reach me **vattafynn.work@gmail.com**
 
-- 🐱‍👤 I enjoy watching anime, reading manga and light novels and watching space documentaries.
+- 🐱‍👤 I enjoy watching anime, reading manga and light novels and spending time with my kitty cats.
 
 - ☄ I love to imagine myself as **an astronaut drifting in space, through an ocean of stars✨. Just imagining the feeling of weightlessness and the strange possibilties that may exist somewhere in the universe🎈.**
 
@@ -29,11 +29,11 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessaattafynn&show_icons=true&locale=en&layout=compact&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessaattafynn&show_icons=true&locale=en&layout=compact&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessaattafynn&show_icons=true&locale=en&theme=outrun" alt="vanessaattafynn" /></p><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessaattafynn&show_icons=true&locale=en&theme=outrun&cache_seconds=86400" alt="vanessaattafynn" /></p><br><br><br><br><br><br>
 <br><br>
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/vattafynn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vattafynn"/></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/vattafynn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vattafynn"/></a></p><br><br>
