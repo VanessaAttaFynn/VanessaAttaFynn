@@ -41,11 +41,11 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Statistics:</h3>
+<!-- <h3 align="left">Statistics:</h3>
 
 <p align="center">
 <img src="github-metrics.svg" alt="vanessaattafynn github metrics" width="100%" />
-</p>
+</p> -->
 
 <h3 align="left">Support:</h3>
 
